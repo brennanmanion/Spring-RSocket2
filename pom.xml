@@ -11,7 +11,7 @@
 	<groupId>com.vinsguru</groupId>
 	<artifactId>Spring-RSocket</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Spring-RSocket</name>
 	<description>RSocket Spring Boot Project</description>
 	<properties>
