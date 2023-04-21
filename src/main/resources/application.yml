@@ -1,7 +1,0 @@
-server:
-  port: 8081
-spring:
-  rsocket:
-    server:
-      port: 8080
-      transport: websocket
